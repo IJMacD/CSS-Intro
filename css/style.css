@@ -1,0 +1,15 @@
+body {
+	color: #800;
+}
+
+p {
+	background: #CCC;
+}
+
+.foo {
+	border: 1px solid #336;
+}
+
+#bar {
+	font-size: 18pt;
+}
